@@ -1,1 +1,10 @@
+body {
+  backgraund: grey;
+}
+body,head {
+  backgraund: withe;
+}
+.post {
+  backgraund: withe;
+}
 
