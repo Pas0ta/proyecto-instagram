@@ -1,10 +1,37 @@
-body {
-  backgraund: grey;
+body{
+    background: #BDBDBD;
+    margin: 0;
 }
-body,head {
-  backgraund: withe;
+header{
+    background: white;
+    padding: 20px;
+    position: fixed;
+    width: 100%
 }
-.post {
-  backgraund: withe;
+header h1{
+    margin: 0;
+}
+.post{
+    background-color: white;
+    margin-top:120px;
+}
+.post img{
+    width: 100%;
+}
+.container{
+    width: 600px;
+    margin: auto;
+}
+.post,h2,p{
+    padding: 5px;
+    display: inline;
+}
+.post,span {
+    float: right;
+}
+span {color: gainsboro;
+}
+titled {
+    display: none;
 }
 
